@@ -10,7 +10,7 @@
 		},
 		"dataSources": {
 			"local": {
-				"uri": "/B1CLOUDSAP/b1s/v2/",
+				"uri": "/B1SLDest/b1s/v2/",
 				"type": "OData",
 				"settings": {
 					"odataVersion": "4.0",

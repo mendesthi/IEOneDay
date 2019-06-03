@@ -20,12 +20,12 @@
 			},
 			"description": "SAPUI5 Test Resources"
 		}, {
-			"path": "/B1CLOUDSAP",
+			"path": "/B1SLDest",
 			"target": {
 				"type": "destination",
-				"name": "B1CLOUDSAP"
+				"name": "B1SLDest"
 			},
-			"description": "B1CLOUDSAP"
+			"description": "B1SLDest"
 		}, {
 			"path": "/smbmkt",
 			"target": {
